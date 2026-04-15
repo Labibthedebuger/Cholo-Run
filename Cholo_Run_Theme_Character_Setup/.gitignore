@@ -1,0 +1,7 @@
+Debug/
+Release/
+*.sdf
+*.suo
+*.opensdf
+*.ipch
+*.mp4
