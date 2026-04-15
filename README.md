@@ -90,9 +90,9 @@ Make sure you have:
 ## 📸 Screenshots
 
 * Menu
-  <img src="https://github.com/Labibthedebuger/Cholo-Run/blob/main/Screenshot/Screenshot%202026-04-15%20001313.png" width="200" height="200">
+<img src="https://github.com/Labibthedebuger/Cholo-Run/blob/main/Screenshot/Screenshot%202026-04-15%20001313.png" width="200" height="200">
 * Gameplay
-  <img src="https://github.com/Labibthedebuger/Cholo-Run/blob/main/Screenshot/Screenshot%202026-04-15%20002812.png" width="200" height="200">
+<img src="https://github.com/Labibthedebuger/Cholo-Run/blob/main/Screenshot/Screenshot%202026-04-15%20002812.png" width="200" height="200">
 
 ---
 
@@ -106,7 +106,7 @@ https://youtu.be/2K_RXrN6eo8?si=c7g3DzTM_cekijd9
 ## 📄 Project Report
 
 **Project Report: Cholo Run**
-*(Add report link here)*
+https://drive.google.com/file/d/1FOTRSkqtd-RDeAjJvDlqNGig7p919JsG/view?usp=sharing
 
 ---
 
